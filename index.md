@@ -8,3 +8,5 @@ I am learning tools such as:
 - Python
 - Tableau
 - Cataloging
+
+[My Reading List](reading-list.html)
